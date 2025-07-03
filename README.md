@@ -4,7 +4,7 @@
 - 🌱 I’m learning React.js, Node.js and backend development
 - 💞️ I’m looking to collaborate on a Professional Programmers so they can assist me the correct way.
 - 📫 Facebook: https://www.facebook.com/jonathancarlo.urbina.1
-- 📫 Reach me at: john@example.com
+- 📫 Reach me at: nathanoj31carlo@gmail.com
 - ⚡ Fun fact: Even when im always studying, In creating project i don't know where to start tho.
 
 <!---
